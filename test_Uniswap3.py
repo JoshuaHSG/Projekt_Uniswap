@@ -1,4 +1,4 @@
-"""Test if the csv works, as well as the Search Bar und Filter"""
+"""Test if the csv works, as well as the Search Bar und Filter!"""
 
 import streamlit as st
 import pandas as pd  
